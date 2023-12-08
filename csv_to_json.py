@@ -12,6 +12,6 @@ def csv_to_json(csv_file, json_file):
         json.dump(data, json_file, indent=2)
 
 csv_filename = "entrada.csv"
-json_filename = "saida.json"
+output_filename = "saida.json"
 
-csv_to_json(csv_filename, json_filename)
+csv_to_json(csv_filename, output_filename)

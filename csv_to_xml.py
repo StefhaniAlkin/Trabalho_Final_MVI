@@ -17,6 +17,6 @@ def csv_to_xml(csv_file, xml_file):
         tree.write(xml_file, encoding='utf-8')
         
 csv_filename = "entrada.csv"
-xml_filename = "saida.xml"
+output_filename = "saida.xml"
     
-csv_to_xml(csv_filename, xml_filename)
+csv_to_xml(csv_filename, output_filename)

@@ -12,6 +12,6 @@ def csv_to_yaml(csv_file, yaml_file):
         yaml.dump(data, yaml_file, indent=2)
 
 csv_filename = "entrada.csv"
-yaml_filename = "saida.yaml"
+output_filename = "saida.yaml"
 
-csv_to_yaml(csv_filename, yaml_filename)
+csv_to_yaml(csv_filename, output_filename)
