@@ -1,0 +1,24 @@
+- cod_barra: '3123123712'
+  imposto: '135'
+  marca: Apple
+  nome: Iphone14
+  preco: '7500'
+  quantidade: '2'
+- cod_barra: '43436'
+  imposto: '250'
+  marca: Sony
+  nome: PS5
+  preco: '3500'
+  quantidade: '2'
+- cod_barra: '454543'
+  imposto: '100'
+  marca: Lacoste
+  nome: Camiseta Lacoste
+  preco: '450'
+  quantidade: '2'
+- cod_barra: '12312'
+  imposto: '356'
+  marca: Samsung
+  nome: Tablet Galaxy
+  preco: '1100'
+  quantidade: '2'
